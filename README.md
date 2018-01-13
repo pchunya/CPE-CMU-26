@@ -13,12 +13,12 @@ int main()
 ## My Information
 > Please insert your answer between \` and \`.
 
-1. Name: ``
-2. Student ID: ``
-3. Section: ``
-4. Age: ``
-5. Your programming skill (0-5): ``
-6. Expected grade of this course: ``
+1. Name: `Chunyarat Thongyaem`
+2. Student ID: `600610728`
+3. Section: `002`
+4. Age: `19`
+5. Your programming skill (0-5): `1`
+6. Expected grade of this course: `B`
 7. Message to lecturers or TAs: ``
 
 ---
