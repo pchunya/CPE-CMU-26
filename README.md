@@ -19,7 +19,7 @@ int main()
 4. Age: `19`
 5. Your programming skill (0-5): `1`
 6. Expected grade of this course: `B`
-7. Message to lecturers or TAs: ``
+7. Message to lecturers or TAs: `ขอบคุณค่ะที่มาสอน`
 
 ---
 ![CPE102 class environment](https://github.com/tmwatchanan/CPE-CMU-26/raw/master/cpe102_class_envi.jpg)
